@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace CommonUtility
+namespace CommonUtility.TypeExtension
 {
 
     public static partial class TypeExtension_String
